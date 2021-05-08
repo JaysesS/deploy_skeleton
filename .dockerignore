@@ -1,0 +1,6 @@
+__pycache__/
+local_psql/
+venv/
+test_*
+.vscode/
+.env
