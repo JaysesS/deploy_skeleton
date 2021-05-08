@@ -1,4 +1,4 @@
-# Thesis project
+# Deploy skeleton
 
 ## Server
 
